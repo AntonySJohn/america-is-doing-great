@@ -1,53 +1,24 @@
-const header = 'Welcome to this wonderful example timeline.';
-const footer = 'A footer goes here.';
+const header = 'America is doing Great!: A Perfectly Normal Timeline Where Everything Is Fine™';
+const footer = 'This is definitely not a collection of concerning events. Everything is great. Really.';
 const entries = [
   {
-    id: 'cat',
-    categories: ['cat'],
-    color: 'green',
-    faicon: 'cat',
-    datetime: '2021-01-01 05:00',
-    title: 'Cats are very good',
+    id: 'trump-inauguration-2025',
+    categories: ['politics', 'inauguration'],
+    color: 'red',
+    faicon: 'flag',
+    datetime: '2025-01-20 12:00',
+    title: 'A Perfectly Normal Inauguration: Billionaires Celebrate New Beginning',
     image: {
-      link: 'http://placekitten.com',
-      src: 'http://placekitten.com/200/300',
-      alt: 'A placeholder kitten',
-      caption: 'Kitten!',
+      link: 'https://www.livenowfox.com/news/billionaires-trump-inauguration-2025',
+      src: 'img/2025-01/inauguration.png',
+      alt: 'Political celebration',
+      caption: 'Everything proceeding exactly as expected',
     },
-    body: "The best thing in the universe is a cardboard box. Chirp at birds catasstrophe for meowwww for hiding behind the couch until lured out by a feathery toy for morning beauty routine of licking self sugar, my siamese, stalks me (in a good way), day and night lick the other cats. Pushed the mug off the table shove bum in owner's face like camera lens or tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad and grass smells good, licks your face, but hiiiiiiiiii feed me now.",
+    body: "In a completely normal and not-at-all concerning turn of events, the 2025 inauguration was celebrated by all the right people. The billionaires were particularly thrilled with how everything is going to work out perfectly for everyone. This is definitely how democracy is supposed to function - with the wealthiest Americans getting exactly what they want while the rest of us benefit from their trickle-down wisdom.",
     links: [
       {
-        href: 'https://en.wikipedia.org/wiki/Cat',
-        linkText: 'Cat',
-      },
-    ],
-  },
-  {
-    id: 'dog',
-    categories: ['dog'],
-    color: 'green',
-    faicon: 'dog',
-    datetime: '2021-05-01 23:55',
-    title: 'Puppies are great too',
-    image: {
-      link: 'http://place-puppy.com',
-      src: 'https://place-puppy.com/300x300',
-      alt: 'A placeholder puppy',
-      caption: 'Puppy!',
-    },
-    body: 'Doggo ipsum sub woofer smol wow very biscit aqua doggo pupper dat tungg tho big ol pupper, very jealous pupper mlem heckin angery woofer very jealous pupper. Blep waggy wags long doggo, corgo. Tungg wow such tempt mlem very jealous pupper boofers lotsa pats, snoot smol big ol ruff doge super chub, long doggo heckin good boys and girls h*ck heck. Shoober blop many pats borkf, such treat. Big ol what a nice floof long water shoob wrinkler heck sub woofer, pupper porgo wow very biscit.',
-    links: [
-      {
-        href: 'https://en.wikipedia.org/wiki/Dog',
-        linkText: 'Dog',
-      },
-      {
-        href: 'https://en.wikipedia.org/wiki/Canis',
-        linkText: 'Canis',
-      },
-      {
-        href: 'https://en.wikipedia.org/wiki/Lassie',
-        linkText: 'Lassie',
+        href: 'https://www.livenowfox.com/news/billionaires-trump-inauguration-2025',
+        linkText: 'Read the uplifting news',
       },
     ],
   },
